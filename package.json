@@ -14,7 +14,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage": "https://jungdj221.github.io/portfolio/",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -22,6 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://jungdj221.github.io/portfolio/",
   "eslintConfig": {
     "extends": [
       "react-app",
